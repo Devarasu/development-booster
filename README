@@ -1,0 +1,3 @@
+Fix slow Rails development mode via rails-dev-boost
+
+Make your Rails app 10 times faster in development mode (see FAQ below for more details).
